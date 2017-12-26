@@ -1,0 +1,16 @@
+
+\.vs/
+
+Debug/
+
+Release/
+
+*.vcxproj
+
+*.filters
+
+*.user
+
+Dependencies/
+
+CellularAutomata\.sln
