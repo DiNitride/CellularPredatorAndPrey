@@ -6,3 +6,6 @@ A very basic implementation of the predator vs prey cellula-autonoma. I develope
 - SFML Library
 
 ## Compilation
+- Load the project in Visual Studio
+- Ensure SFML is downloaded and linked to the project
+- Compile and run .exe
